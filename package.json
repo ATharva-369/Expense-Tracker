@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "A siumple CLI-based expense tracker that saves data locally. ",
+  "main": "index.js",
+  "author": "Atharva Wagh",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "dayjs": "^1.11.13",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.4.1",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
